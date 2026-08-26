@@ -1,16 +1,21 @@
-## Hi there 👋
+# AJR Core Solutions
 
-<!--
-**ajrcore-solutions/ajrcore-solutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software • Apps • Soluciones digitales  
+🚀 Tecnología para resolver problemas reales
 
-Here are some ideas to get you started:
+## Sobre AJR Core
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AJR Core Solutions desarrolla software, aplicaciones y soluciones digitales orientadas a resolver necesidades reales mediante tecnología simple, útil y escalable.
+
+## En qué trabajamos
+
+- Desarrollo de software
+- Aplicaciones web y móviles
+- Automatización de procesos
+- Integración de sistemas
+- Soluciones digitales
+- Productos tecnológicos propios
+
+## Actualmente
+
+Estamos construyendo los primeros proyectos y soluciones de AJR Core.
